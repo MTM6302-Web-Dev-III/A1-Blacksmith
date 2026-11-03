@@ -121,7 +121,7 @@ function makeSword() {
 
     // Update the page
     updateForge();
-  }
+  } 
 }
 
 // 8. Start the game by resetting the forge
